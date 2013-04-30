@@ -15,6 +15,6 @@
 	set grid
 	
 	#'using 2:1' means set second column  as X axis and first column as Y axis
-	plot "dns_log_analysisAllRecords" using 2:1 title "DNS Queries per second" with lines
+	plot "dns_log_analysisAllRecords" using 2:1 title "DNS Queries per minute" with lines
 
 #End of File
